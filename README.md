@@ -1,4 +1,4 @@
-## The framework app Quizzler
+The framework app Quizzler
 
 # Quizzler
 
